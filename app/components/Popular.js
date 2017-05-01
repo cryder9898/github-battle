@@ -57,6 +57,7 @@ SelectLanguage.propTypes = {
 
 class Popular extends React.Component {
 
+  //state defined in constructor
   constructor (props) {
     super(props);
     this.state = {
