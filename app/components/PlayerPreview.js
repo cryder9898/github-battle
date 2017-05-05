@@ -20,6 +20,6 @@ function PlayerPreview (props) {
 PlayerPreview.PropTypes = {
   avatar: PropTypes.string.isRequired,
   username: PropTypes.string.isRequired,
-}
+};
 
 module.exports = PlayerPreview;

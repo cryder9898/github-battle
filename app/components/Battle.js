@@ -63,7 +63,7 @@ PlayerInput.PropTypes = {
   id: PropTypes.string.isRequired,
   label: PropTypes.string.isRequired,
   onSubmit: PropTypes.func.isRequired
-}
+};
 
 class Battle extends React.Component {
   //state defined in constructor
